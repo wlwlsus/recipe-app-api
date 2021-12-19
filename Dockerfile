@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Korean App Developer Ltd
+LABEL MAINTAINER="Korean App Developer Ltd"
 
 ENV PYTHONUNBUFFERED 1
 
